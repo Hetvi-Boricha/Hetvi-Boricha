@@ -12,9 +12,10 @@
 - **Mobile App Development:** Android (Java, Firebase)  
 
 ## 🔭 Projects I'm Working On  
-- 📱 **Android Recipe App** – A mobile app for exploring and managing recipes.  
+- 🌐 **SkillSwap** – A full-stack MERN web application where users can teach and learn skills from each other. Features include authentication, skill posting, and profile management.  
 - 🌐 **Amplimentor** – A web platform that simplifies mentor-student communication.  
 - 🐾 **Pet Adoption Website** – A platform helping pets find new homes.  
+- 📅 **Smart Daily Planner** – A productivity web app that helps users track daily tasks with local storage, deadline alerts, pie chart-based productivity summary, and reset-on-new-day logic.
 
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hetvi-boricha-463420259)  
