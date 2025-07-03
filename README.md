@@ -1,24 +1,39 @@
-# 👋 Hi, I'm Hetvi Boricha!  
 
-## 🚀 About Me  
-- 🎓 **Engineering Student** specializing in **Information Technology**  
-- 💻 Passionate about **Full-Stack Web & Android Development**  
-- 🌱 Currently learning **MERN Stack & Android Development (Java, Firebase)**  
+# 👋 Hi, I'm Hetvi Boricha!
 
-## 🛠 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** PHP, Node.js (learning)  
-- **Databases:** MySQL (completed), MongoDB (learning)  
-- **Mobile App Development:** Android (Java, Firebase)  
+## 🚀 About Me
 
-## 🔭 Projects I'm Working On  
-- 🌐 **SkillSwap** – A full-stack MERN web application where users can teach and learn skills from each other. Features include authentication, skill posting, and profile management.  
-- 🌐 **Amplimentor** – A web platform that simplifies mentor-student communication.  
-- 🐾 **Pet Adoption Website** – A platform helping pets find new homes.  
-- 📅 **Smart Daily Planner** – A productivity web app that helps users track daily tasks with local storage, deadline alerts, pie chart-based productivity summary, and reset-on-new-day logic.
+* 🎓 Final Year **IT Engineering Student** at GEC Bhavnagar (Graduating 2026)
+* 💻 Passionate about **Frontend Web Development** using modern tools and frameworks
+* 🌱 Currently deepening my skills in **React.js**, **JavaScript**, and **Responsive Design**
 
-## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hetvi-boricha-463420259)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hetvi-Boricha)  
+## 🔭 Projects I'm Working On
 
-✨ **Always learning, building, and innovating!** 🚀  
+* 🌐 **SkillSwap** –A web app where users can share and learn skills. I’m building the entire frontend, including login/signup forms, protected routes, and responsive design.
+* 📅 **Smart Daily Planner** – A React-based productivity tool with local storage, deadline alerts, pie chart summaries, and daily reset logic.
+* 🌐 **Amplimentor** – A web platform to simplify mentor-student communication with responsive pages and user-focused features.
+* 🐾 **Pet Adoption Website** – A frontend project that showcases pet profiles and allows user interaction through a clean UI.
+
+## 💻 Technologies I Use
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hetvi-boricha-463420259)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hetvi-Boricha)
+
+✨ **Building fast, responsive, and clean frontend applications!** 🚀
