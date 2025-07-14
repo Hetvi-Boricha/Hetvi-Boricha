@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Hetvi Boricha!
 
+![](https://komarev.com/ghpvc/?username=Hetvi-Boricha&color=blue)
+
 ## 🚀 About Me
 
 * 🎓 Final Year **IT Engineering Student** at GEC Bhavnagar (Graduating 2026)
