@@ -9,12 +9,14 @@
 * 💻 Passionate about **Frontend Web Development** using modern tools and frameworks
 * 🌱 Currently deepening my skills in **React.js**, **JavaScript**, and **Responsive Design**
 
-## 🔭 Projects I'm Working On
+## 🔭 Projects
 
-* 🌐 **SkillSwap** –A web app where users can share and learn skills. I’m building the entire frontend, including login/signup forms, protected routes, and responsive design.
-* 📅 **Smart Daily Planner** – A React-based productivity tool with local storage, deadline alerts, pie chart summaries, and daily reset logic.
+* 💰 **Splitwise Expense Tracker** – Built a full-stack app to manage shared expenses and group balances with real-time updates.
+* 🖋 **CodePen Clone** – Developed a frontend-only clone of CodePen with live preview support for HTML, CSS, and JavaScript. Used React.js and state management to dynamically update the output area in real-time.
+* 🔐 **Random Password Generator** – Built a customizable password generator using HTML, CSS, JavaScript, and React.js. Allows users to select length and character types, and displays generated password with copy functionality.
+* 📅 **DPlanner** - Created a task planner with deadline alerts and visual progress tracking using modular logic.
+* 🌤 **Weather Forecast Website** – Designed a responsive app to display current weather and 5-day forecasts based on city search.
 * 🌐 **Amplimentor** – A web platform to simplify mentor-student communication with responsive pages and user-focused features.
-* 🐾 **Pet Adoption Website** – A frontend project that showcases pet profiles and allows user interaction through a clean UI.
 
 ## 💻 Technologies I Use
 
@@ -38,4 +40,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/hetvi-boricha)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Hetvi-Boricha)
 
-✨ **Building fast, responsive, and clean frontend applications!** 🚀
+✨ Eager to contribute to real-world projects and grow within a collaborative environment! 🚀
